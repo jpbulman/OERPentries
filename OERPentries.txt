@@ -1,2 +1,1 @@
-Entry Number: 1 Permutation:OOOOOOOOOYYYYYYYYYBBBBBBBBBWWWWWWWWWRRRRRRRRRGGGGGGGGG Non-optimal solutions:[] Optimal solutions:[]
 
