@@ -3,3 +3,4 @@ Entry Number: 2 Permutation:OOOOOOOOOYYBYYBYYBBBWBBWBBWWWGWWGWWGRRRRRRRRRYGGYGGY
 Entry Number: 3 Permutation:OOOOOOOOOYYWYYWYYWBBGBBGBBGWWYWWYWWYRRRRRRRRRBGGBGGBGG Non-optimal solutions:[] Optimal solutions:[]
 Entry Number: 4 Permutation:OOOOOOOOOYYGYYGYYGBBYBBYBBYWWBWWBWWBRRRRRRRRRWGGWGGWGG Non-optimal solutions:[] Optimal solutions:[]
 Entry Number: 5 Permutation:BBWOOOOOOYYYYYYBBBRRRBBWBBWWWGWWGWWGYGGRRRRRROOOYGGYGG Non-optimal solutions:[] Optimal solutions:[]
+Entry Number: 6 Permutation:OOOOOORRRYYWYYWYYWBBGBBGBGGYWWYWWYWWRRRRRROOOBGGBGGBBG Non-optimal solutions:[] Optimal solutions:[]
