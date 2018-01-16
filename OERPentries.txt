@@ -12,3 +12,4 @@ Entry Number: 11 Permutation:WBGOOOOOOGGGYYWYWWORRYBGYBGBWWBWYBYYBGYORRORRRRRBGW
 Entry Number: 12 Permutation:YBWOOOOOOGGGYYYBBBRRRYBWYBWBWGBWGBWGYGWRRRRRROOOYGWYGW Non-optimal solutions:[] Optimal solutions:[]
 Entry Number: 13 Permutation:BBBOOORRRYYYYYYYYYRRRBBBGGGWWWWWWWWWGGGRRROOOOOOGGGBBB Non-optimal solutions:[] Optimal solutions:[]
 Entry Number: 14 Permutation:OOOOOOOOOGYYGYYGYYYBBYBBYBBBWWBWWBWWRRRRRRRRRGGWGGWGGW Non-optimal solutions:[] Optimal solutions:[]
+Entry Number: 15 Permutation:OOOOOOGGWGYYGYYGYYYBBYBBOOOBBBWWWWWWRRRRRRYBBGGWGGWRRR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
