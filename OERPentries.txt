@@ -1,15 +1,15 @@
-Entry Number: 1 Permutation:OOOOOOOOOYYYYYYYYYBBBBBBBBBWWWWWWWWWRRRRRRRRRGGGGGGGGG Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 2 Permutation:OOOOOOOOOYYBYYBYYBBBWBBWBBWWWGWWGWWGRRRRRRRRRYGGYGGYGG Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 3 Permutation:OOOOOOOOOYYWYYWYYWBBGBBGBBGWWYWWYWWYRRRRRRRRRBGGBGGBGG Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 4 Permutation:OOOOOOOOOYYGYYGYYGBBYBBYBBYWWBWWBWWBRRRRRRRRRWGGWGGWGG Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 5 Permutation:BBWOOOOOOYYYYYYBBBRRRBBWBBWWWGWWGWWGYGGRRRRRROOOYGGYGG Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 6 Permutation:OOOOOORRRYYWYYWYYWBBGBBGBGGYWWYWWYWWRRRRRROOOBGGBGGBBG Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 7 Permutation:ROOROOROOYWWYYWYYWBBGBBGBBGWWYWWYWYYRRORRORROGGBGGBGGB Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 8 Permutation:OOOOOORRRYYBYYBYYBBBWBBWYGGGWWGWWGWWRRRRRROOOYGGYGGBBW Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 9 Permutation:OOOOOORRRYYWYYWYYWBBBBBBBGBYWWYWWYWWOOORRRRRRGGGGGGGBG Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 10 Permutation:ORRROOROOYYYWYYWWWBGGBBGBBGWWWWWYYYYROOORRORRBBGBGGBGG Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 11 Permutation:WBGOOOOOOGGGYYWYWWORRYBGYBGBWWBWYBYYBGYORRORRRRRBGWBGW Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 12 Permutation:YBWOOOOOOGGGYYYBBBRRRYBWYBWBWGBWGBWGYGWRRRRRROOOYGWYGW Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 13 Permutation:BBBOOORRRYYYYYYYYYRRRBBBGGGWWWWWWWWWGGGRRROOOOOOGGGBBB Non-optimal solutions:[] Optimal solutions:[]
-Entry Number: 14 Permutation:OOOOOOOOOGYYGYYGYYYBBYBBYBBBWWBWWBWWRRRRRRRRRGGWGGWGGW Non-optimal solutions:[] Optimal solutions:[]
+Entry Number: 1 Permutation:OOOOOOOOOYYYYYYYYYBBBBBBBBBWWWWWWWWWRRRRRRRRRGGGGGGGGG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 2 Permutation:OOOOOOOOOYYBYYBYYBBBWBBWBBWWWGWWGWWGRRRRRRRRRYGGYGGYGG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 3 Permutation:OOOOOOOOOYYWYYWYYWBBGBBGBBGWWYWWYWWYRRRRRRRRRBGGBGGBGG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 4 Permutation:OOOOOOOOOYYGYYGYYGBBYBBYBBYWWBWWBWWBRRRRRRRRRWGGWGGWGG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 5 Permutation:BBWOOOOOOYYYYYYBBBRRRBBWBBWWWGWWGWWGYGGRRRRRROOOYGGYGG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 6 Permutation:OOOOOORRRYYWYYWYYWBBGBBGBGGYWWYWWYWWRRRRRROOOBGGBGGBBG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 7 Permutation:ROOROOROOYWWYYWYYWBBGBBGBBGWWYWWYWYYRRORRORROGGBGGBGGB Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 8 Permutation:OOOOOORRRYYBYYBYYBBBWBBWYGGGWWGWWGWWRRRRRROOOYGGYGGBBW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 9 Permutation:OOOOOORRRYYWYYWYYWBBBBBBBGBYWWYWWYWWOOORRRRRRGGGGGGGBG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 10 Permutation:ORRROOROOYYYWYYWWWBGGBBGBBGWWWWWYYYYROOORRORRBBGBGGBGG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 11 Permutation:WBGOOOOOOGGGYYWYWWORRYBGYBGBWWBWYBYYBGYORRORRRRRBGWBGW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 12 Permutation:YBWOOOOOOGGGYYYBBBRRRYBWYBWBWGBWGBWGYGWRRRRRROOOYGWYGW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 13 Permutation:BBBOOORRRYYYYYYYYYRRRBBBGGGWWWWWWWWWGGGRRROOOOOOGGGBBB Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 14 Permutation:OOOOOOOOOGYYGYYGYYYBBYBBYBBBWWBWWBWWRRRRRRRRRGGWGGWGGW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
 Entry Number: 15 Permutation:OOOOOOGGWGYYGYYGYYYBBYBBOOOBBBWWWWWWRRRRRRYBBGGWGGWRRR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
