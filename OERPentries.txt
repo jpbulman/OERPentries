@@ -13,3 +13,4 @@ Entry Number: 12 Permutation:YBWOOOOOOGGGYYYBBBRRRYBWYBWBWGBWGBWGYGWRRRRRROOOYGW
 Entry Number: 13 Permutation:BBBOOORRRYYYYYYYYYRRRBBBGGGWWWWWWWWWGGGRRROOOOOOGGGBBB Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
 Entry Number: 14 Permutation:OOOOOOOOOGYYGYYGYYYBBYBBYBBBWWBWWBWWRRRRRRRRRGGWGGWGGW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
 Entry Number: 15 Permutation:OOOOOOGGWGYYGYYGYYYBBYBBOOOBBBWWWWWWRRRRRRYBBGGWGGWRRR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
+Entry Number: 16 Permutation:YOBGOBGOWRYYGYYOBBYRRYBWBOORWWBWWOGGYGGRRRBBWOOGYGWRRW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
