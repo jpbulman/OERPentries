@@ -15,5 +15,5 @@ Entry Number: 14 Permutation:OOOOOOOOOGYYGYYGYYYBBYBBYBBBWWBWWBWWRRRRRRRRRGGWGGW
 Entry Number: 15 Permutation:OOOOOOGGWGYYGYYGYYYBBYBBOOOBBBWWWWWWRRRRRRYBBGGWGGWRRR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
 Entry Number: 16 Permutation:YOBGOBGOWRYYGYYOBBYRRYBWBOORWWBWWOGGYGGRRRBBWOOGYGWRRW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
 Entry Number: 17 Permutation:YORGOWGOWRYYGYYWBBBYYOBROWRBRYBWWOGGOGGBRRBBWOOGYGWRRW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
-Entry Number: 18 Permutation:OOBOOBRRGGYRGYBWYBORROBWYGROWBGWBGRYYYGRRGWWBYOWYGWOBW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on java.text.SimpleDateFormat@f3a204e2
+Entry Number: 18 Permutation:OOBOOBRRGGYRGYBWYBORROBWYGROWBGWBGRYYYGRRGWWBYOWYGWOBW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
 Entry Number: 19 Permutation:OOWOOBRRBGYYGYYRBBGRRWBBWBBOYYWWGWWGYGGORRORROOWYGWYGB Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Wed, 24 Jan 2018 14:24
