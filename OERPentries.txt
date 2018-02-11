@@ -18,3 +18,4 @@ Entry Number: 17 Permutation:YORGOWGOWRYYGYYWBBBYYOBROWRBRYBWWOGGOGGBRRBBWOOGYGW
 Entry Number: 18 Permutation:OOBOOBRRGGYRGYBWYBORROBWYGROWBGWBGRYYYGRRGWWBYOWYGWOBW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2
 Entry Number: 19 Permutation:OOWOOBRRBGYYGYYRBBGRRWBBWBBOYYWWGWWGYGGORRORROOWYGWYGB Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Wed, 24 Jan 2018 14:24
 Entry Number: 20 Permutation:WGBYORGORGGRWYRYWORRWYBBYBBGYYGWWOOOBBBORWOOGWRRBGGYYW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Wed, 24 Jan 2018 14:36
+Entry Number: 21 Permutation:BBYOOWORBYYWWYYORGGGROBBYGORWGWWRBYRWORYROWBYBROGGBGGW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Sun, 11 Feb 2018 00:37
