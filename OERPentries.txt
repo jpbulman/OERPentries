@@ -35,3 +35,4 @@ Entry Number: 34 Permutation:BYBWOOWOORGGRYWOWRYGWYBGBRRWBBWWGGYGGBYRRBWYYROYOGR
 Entry Number: 35 Permutation:WYYOOGGYGBRWOYRBYYOBGOBORWBYBRGWGORWOWGBRBYWBRGORGWRYW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:08
 Entry Number: 36 Permutation:WOGGOYOBORBGWYBROBYGORBYYWGBGROWRGRRWWWORYWWBOYBGGRYBY Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:11
 Entry Number: 37 Permutation:BGGWOBBRWYROOYOYYGOGRWBYGWGOGYYWRYBBWBWORGRBRBWORGOWYR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:12
+Entry Number: 38 Permutation:OWOYOYGYRWGRRYRWGGGYYBBOGBYWWOOWOYORRBBGRWBBBWRBGGRYWO Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:12
