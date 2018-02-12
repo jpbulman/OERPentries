@@ -41,3 +41,4 @@ Entry Number: 40 Permutation:BOOROGWGWOYBGYWYRYBBRWBGRYYGBBRWOGWGGBWYRWRBYROWRGY
 Entry Number: 41 Permutation:YOGOOBYRGOBBYYBWGWRRRRBGRBGYOWYWGRWOBYOYRWOOGWWBGGWYRB Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Mon, 12 Feb 2018 00:15
 Entry Number: 42 Permutation:OOBBOBBRBGOOYYRYBGRWRRBGWRROGGWWYRBBWYYWRWYGOGGWOGOYYW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:16
 Entry Number: 43 Permutation:OBWROYOYBGGOOYBBYOROWGBOYWRROGBWWGRWBRBGRGYBRYWWRGWGYY Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:32
+Entry Number: 44 Permutation:GBGWOYBWBOGROYYWBGRRWGBOYYWRBRBWRORWOOGGRGBWOYWYRGOBYY Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:33
