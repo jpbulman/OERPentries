@@ -33,3 +33,4 @@ Entry Number: 32 Permutation:YORGOBOOROBBBYRBGYYWGRBWGRBWGWYWYWOYOYORRBRGGWYBWGO
 Entry Number: 33 Permutation:GWOROOOWGYRRGYOYRRBWBGBOOYRWRYBWBGYOWBWYROBYBGBRWGGWGY Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:08
 Entry Number: 34 Permutation:BYBWOOWOORGGRYWOWRYGWYBGBRRWBBWWGGYGGBYRRBWYYROYOGROBO Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:08
 Entry Number: 35 Permutation:WYYOOGGYGBRWOYRBYYOBGOBORWBYBRGWGORWOWGBRBYWBRGORGWRYW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:08
+Entry Number: 36 Permutation:WOGGOYOBORBGWYBROBYGORBYYWGBGROWRGRRWWWORYWWBOYBGGRYBY Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:11
