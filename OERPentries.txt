@@ -22,3 +22,4 @@ Entry Number: 21 Permutation:BBYOOWORBYYWWYYORGGGROBBYGORWGWWRBYRWORYROWBYBROGGB
 Entry Number: 22 Permutation:OGGROBWOYWYBWYBOYGWOYYBGRGRBYWWWRBWGROYORWGGYORBBGBORR Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Mon, 12 Feb 2018 00:00
 Entry Number: 23 Permutation:BOWWOOOBOOBGYYBRGRGRBGBWYYYBGBRWBGWRWWWORYRYYOOWRGRGGY Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Mon, 12 Feb 2018 00:00
 Entry Number: 24 Permutation:GWWGOYWWYWRYBYWRBOGOWRBRGOBRYROWGBBYBGGGRRYOBOBOWGYOYR Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Mon, 12 Feb 2018 00:00
+Entry Number: 25 Permutation:WGOYOWOROOYRWYRYYBBORRBGGBWYWRBWYBWGYGGORBBRWYGGOGBROW Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Mon, 12 Feb 2018 00:00
