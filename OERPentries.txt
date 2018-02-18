@@ -48,3 +48,4 @@ Entry Number: 47 Permutation:YOYROYBOOOOBWYWGOORGGGBBGBYYWBYWBWRRWGWYRGRRGRBBRGW
 Entry Number: 48 Permutation:BOGWORGBRYYOYYYWOORBYBBYWOYBGRWWRORBGBWGRGGWYBROWGORGW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 12:37
 Entry Number: 49 Permutation:RWBOORWYYYOORYBWROOGGYBWOWWGGGGWOBOYWYBBRRRGGYYBBGBRWR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 13:47
 Entry Number: 50 Permutation:OBBOOOYGYGRGYYBWYGOGRYBRBWYOGBOWRGWRWOOYRWRBWYGWRGWBBR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 13:48
+Entry Number: 51 Permutation:YWYOOYBOWBRGBYROBYGROGBWBGRROGYWWWOGBYRGRBYROWGRYGWWBO Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 13:53
