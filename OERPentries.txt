@@ -19,10 +19,10 @@ Entry Number: 18 Permutation:OOBOOBRRGGYRGYBWYBORROBWYGROWBGWBGRYYYGRRGWWBYOWYGW
 Entry Number: 19 Permutation:OOWOOBRRBGYYGYYRBBGRRWBBWBBOYYWWGWWGYGGORRORROOWYGWYGB Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Wed, 24 Jan 2018 14:24
 Entry Number: 20 Permutation:WGBYORGORGGRWYRYWORRWYBBYBBGYYGWWOOOBBBORWOOGWRRBGGYYW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Wed, 24 Jan 2018 14:36
 Entry Number: 21 Permutation:BBYOOWORBYYWWYYORGGGROBBYGORWGWWRBYRWORYROWBYBROGGBGGW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Sun, 11 Feb 2018 00:37
-Entry Number: 22 Permutation:OGGROBWOYWYBWYBOYGWOYYBGRGRBYWWWRBWGROYORWGGYORBBGBORR Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Mon, 12 Feb 2018 00:00
-Entry Number: 23 Permutation:BOWWOOOBOOBGYYBRGRGRBGBWYYYBGBRWBGWRWWWORYRYYOOWRGRGGY Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Mon, 12 Feb 2018 00:00
-Entry Number: 24 Permutation:GWWGOYWWYWRYBYWRBOGOWRBRGOBRYROWGBBYBGGGRRYOBOBOWGYOYR Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Mon, 12 Feb 2018 00:00
-Entry Number: 25 Permutation:WGOYOWOROOYRWYRYYBBORRBGGBWYWRBWYBWGYGGORBBRWYGGOGBROW Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Mon, 12 Feb 2018 00:00
+Entry Number: 22 Permutation:OGGROBWOYWYBWYBOYGWOYYBGRGRBYWWWRBWGROYORWGGYORBBGBORR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Mon, 12 Feb 2018 00:00
+Entry Number: 23 Permutation:BOWWOOOBOOBGYYBRGRGRBGBWYYYBGBRWBGWRWWWORYRYYOOWRGRGGY Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Mon, 12 Feb 2018 00:00
+Entry Number: 24 Permutation:GWWGOYWWYWRYBYWRBOGOWRBRGOBRYROWGBBYBGGGRRYOBOBOWGYOYR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Mon, 12 Feb 2018 00:00
+Entry Number: 25 Permutation:WGOYOWOROOYRWYRYYBBORRBGGBWYWRBWYBWGYGGORBBRWYGGOGBROW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Mon, 12 Feb 2018 00:00
 Entry Number: 26 Permutation:GRWWOYWBGYYBWYBBOBRGRRBYYGBOROYWORBOYRYGRWWWWOORGGBGOG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Mon, 12 Feb 2018 00:01
 Entry Number: 27 Permutation:OORWOYGGGYRWYYGBBRYWGBBGOOBWWWWWOWBOYYBRRRRGYOYGBGRBOR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Mon, 12 Feb 2018 00:01
 Entry Number: 28 Permutation:BYOGOBRWBYGGBYWBWOWBYOBORGOWYGGWRGYBGRYWRRWBYROOYGRROW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpthesolver2 on Mon, 12 Feb 2018 00:01
@@ -37,8 +37,8 @@ Entry Number: 36 Permutation:WOGGOYOBORBGWYBROBYGORBYYWGBGROWRGRRWWWORYWWBOYBGGR
 Entry Number: 37 Permutation:BGGWOBBRWYROOYOYYGOGRWBYGWGOGYYWRYBBWBWORGRBRBWORGOWYR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:12
 Entry Number: 38 Permutation:OWOYOYGYRWGRRYRWGGGYYBBOGBYWWOOWOYORRBBGRWBBBWRBGGRYWO Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:12
 Entry Number: 39 Permutation:RYWGOBWBBGWOGYRBYORBGWBYWWOOGYOWWRRRWBBORRGRBYOYGGOYYG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:13
-Entry Number: 40 Permutation:BOOROGWGWOYBGYWYRYBBRWBGRYYGBBRWOGWGGBWYRWRBYROWRGYOOO Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Mon, 12 Feb 2018 00:15
-Entry Number: 41 Permutation:YOGOOBYRGOBBYYBWGWRRRRBGRBGYOWYWGRWOBYOYRWOOGWWBGGWYRB Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Mon, 12 Feb 2018 00:15
+Entry Number: 40 Permutation:BOOROGWGWOYBGYWYRYBBRWBGRYYGBBRWOGWGGBWYRWRBYROWRGYOOO Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:15
+Entry Number: 41 Permutation:YOGOOBYRGOBBYYBWGWRRRRBGRBGYOWYWGRWOBYOYRWOOGWWBGGWYRB Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:15
 Entry Number: 42 Permutation:OOBBOBBRBGOOYYRYBGRWRRBGWRROGGWWYRBBWYYWRWYGOGGWOGOYYW Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:16
 Entry Number: 43 Permutation:OBWROYOYBGGOOYBBYOROWGBOYWRROGBWWGRWBRBGRGYBRYWWRGWGYY Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:32
 Entry Number: 44 Permutation:GBGWOYBWBOGROYYWBGRRWGBOYYWRBRBWRORWOOGGRGBWOYWYRGOBYY Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:33
