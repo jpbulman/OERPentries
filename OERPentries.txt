@@ -44,3 +44,4 @@ Entry Number: 43 Permutation:OBWROYOYBGGOOYBBYOROWGBOYWRROGBWWGRWBRBGRGYBRYWWRGW
 Entry Number: 44 Permutation:GBGWOYBWBOGROYYWBGRRWGBOYYWRBRBWRORWOOGGRGBWOYWYRGOBYY Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Mon, 12 Feb 2018 00:33
 Entry Number: 45 Permutation:GOWWOBRWBWBYBYRRWOGGBRBYROYWGRRWYBOBYGGRROGGWOYOYGBOWY Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 12:33
 Entry Number: 46 Permutation:ROBWOOYGBWYYWYWWRYOBRGBBROOWBYYWYROOGROWRRGRWBBGGGGGYB Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 12:34
+Entry Number: 47 Permutation:YOYROYBOOOOBWYWGOORGGGBBGBYYWBYWBWRRWGWYRGRRGRBBRGWWYO Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 12:36
