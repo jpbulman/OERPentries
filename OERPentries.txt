@@ -49,3 +49,11 @@ Entry Number: 48 Permutation:BOGWORGBRYYOYYYWOORBYBBYWOYBGRWWRORBGBWGRGGWYBROWGO
 Entry Number: 49 Permutation:RWBOORWYYYOORYBWROOGGYBWOWWGGGGWOBOYWYBBRRRGGYYBBGBRWR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 13:47
 Entry Number: 50 Permutation:OBBOOOYGYGRGYYBWYGOGRYBRBWYOGBOWRGWRWOOYRWRBWYGWRGWBBR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 13:48
 Entry Number: 51 Permutation:YWYOOYBOWBRGBYROBYGROGBWBGRROGYWWWOGBYRGRBYROWGRYGWWBO Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 13:53
+Entry Number: 52 Permutation:YRBBOWWOWORWBYGYBRRWGOBGBYWRROGWYRBYYWBYRRGOOOGBWGOGYG Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Sun, 18 Feb 2018 13:54
+Entry Number: 53 Permutation:WOGWOBGOGBGBGYOOGBWRRYBBWYGRROBWYRRBYWWRRYYOORWOGGBYWY Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Sun, 18 Feb 2018 13:54
+Entry Number: 54 Permutation:YBWOORWWRRWYYYOGGBOOYBBWBRRYYBBWGORWOYGORGWWRORGYGBGGB Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Sun, 18 Feb 2018 13:59
+Entry Number: 55 Permutation:GOYWOBYBWWGRBYWGBGRRRYBYBYYRGGWWRBWWWOYRRYOGOBOOOGGBRO Non-optimal solutions:[] Optimal solutions:[] Submitted by: null on Sun, 18 Feb 2018 13:59
+Entry Number: 56 Permutation:GYROORWOOWBYRYGGWYWORGBYGGYYWBYWBBWOGOOBRGRRBBWOYGBWRR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 14:00
+Entry Number: 57 Permutation:WRBOORBRBGGOGYYRWYWBGWBOOWYYGRBWWYROOBGBRYGOBWORGGYWYR Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 14:00
+Entry Number: 58 Permutation:RROYORYYWYBRYYWGOGYBYGBOORWBWRGWWBGWRGWWROBBGGRBYGBOOO Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 14:03
+Entry Number: 59 Permutation:WBYROYOROBGRWYBGWRRGWBBOYYYBGGWWYWOYGRBWROORRWOOYGGBBG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Sun, 18 Feb 2018 14:03
