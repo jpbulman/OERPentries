@@ -61,3 +61,4 @@ Entry Number: 60 Permutation:YWRBOYOWRGWROYGGOWWGBRBRWBGBYYBWGWYYOYYBRWRRBBROGGO
 Entry Number: 61 Permutation:YRYGOGORWRRGWYWORYGGBWBYGBBOWWYWGYBBRORBRORYWWBGYGOOOB Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Tue, 20 Feb 2018 10:18
 Entry Number: 62 Permutation:GBBROWOGRRRRRYWYYWRRBGBYYBWGOOYWOYOYOOBBRBGYOWWWWGGGGB Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Wed, 21 Feb 2018 13:21
 Entry Number: 63 Permutation:RGOYOWWGYGWWOYOBOOWWGGBBROYBYGRWBRROWBRYRYOWYBRYRGGBBG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Thu, 22 Feb 2018 12:22
+Entry Number: 64 Permutation:RWBOOGRYBWROGYOYRYRBOYBORBOWOGBWBYWOBWYYRRWWBGGGYGGWRG Non-optimal solutions:[] Optimal solutions:[] Submitted by: jpbulman on Fri, 23 Feb 2018 22:52
